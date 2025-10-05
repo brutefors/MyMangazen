@@ -1,0 +1,2 @@
+# MyMangazen
+for my website 
